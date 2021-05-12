@@ -21,3 +21,6 @@ CHECK_INTERVAL=6 (How often you want to check the page for updates, be reasonabl
 Scoring a GPU is hard right now, hopefully this will help. Remember, don't be evil.
 
 V1 only works with the URLs of stores that have Big Blue and Yellow signage, though it is easy to add your own OOS strings for other retailers if you wish.
+
+![Terminal Output](https://raw.githubusercontent.com/cjsh0/SuperStockBot/main/vmplayer_iL1WJZY60Z.png)
+
