@@ -2,8 +2,11 @@
 Simple inventory stock checker written in Python with Pushbullet notifications
 
 Requirements:
+
+
 A Pushbullet account and API Key
 https://pypi.org/project/pushbullet.py/0.9.1/
+
 Written with Ubuntu as the host, contains some Ubuntu specific commands like aplay, if running on another OS just leave audio notifications disabled
 
 
